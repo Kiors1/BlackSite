@@ -1,0 +1,512 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: #181818;
+  }
+.header{ 
+  width: 1097px;
+  align-items: center;
+margin: 0 auto;
+  background-color: #181818;
+  font-family: 'Noto Sans', sans-serif;
+}
+.h1{
+  display: flex; 
+}
+div {
+  align-items: center;
+     
+   margin: 0 auto;
+   display: flex;
+   }
+.ul li {
+
+  list-style: none;
+  position: relative;
+  float: right; 
+  font-style: normal;
+}
+.ul li a{
+  margin: 33px;
+  padding: 10px;
+  font-size: 16px;
+  color: #fff;
+  transition:color 0.3s ease;
+}
+.ul li a:hover{
+color: #cccccc;
+}
+.img{
+  width: 186px;
+  height: 58px;
+  margin-top: 20px;
+}
+button {
+  cursor: pointer;
+  padding: 0;
+  margin-left: 100px;
+  border-color: #fff;
+border: 1px solid white;
+  color: #fff;
+  font-size: 17px;
+  width: 139px;
+  height: 52px;
+  display: initial;
+background-color: transparent;
+}
+.btn{
+    transition: background-color 0.3s ease;
+}
+.btn:hover {
+  background-color: rgba(204,204,204,0.2);
+}
+
+.h12{
+  margin-top: 31px;
+ width: 835px;
+  float: right;
+}
+.info{
+  color: #fff;
+  margin-top: 129px;
+  text-align: center;
+  font-size: 80px;
+  margin-bottom: 27px;
+}
+.p2{
+  font-size: 20px;
+}
+.p3{
+  margin-top: 85px;
+text-align: center;
+padding-bottom: 35px;
+}
+.bt1{
+  background: #4452FE;
+  margin: 0;
+  height: 65px;
+  width: 178px;
+  margin-right: 17px;
+  font-weight: 500;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+.bt1:hover {
+  background-color: #3344CC; /* Новый цвет фона при наведении */
+}
+.bt2{
+  margin: 0;
+  height: 65px;
+  width: 174px;
+  margin-left: 17px;
+  transition: background-color 0.3s ease;
+}
+.bt2:hover {
+  background-color: rgba(204,204,204,0.2); /* Новый цвет фона при наведении */
+}
+.cont {
+
+  
+background: rgb(255,255,255);
+background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(9,1,1,1) 100%), url(desk.jpg);
+ background-size:cover;
+     min-height: 100vh;
+     
+ 
+}
+footer{
+  font-weight: 400;
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #181818;
+}
+.verh1{  
+  width: 1097px;
+  display:inline;
+  text-align: center;
+  align-items: center;
+  color: #fff;
+}
+.p5 {
+  font-size: 20px;
+  color: #fff;
+}
+.p6{ 
+  padding-top: 163px;
+margin: 0 auto;
+font-size: 52px;
+}
+.div1{
+  width: 1097px;
+  height: 759px;
+  padding-top: 80px;
+}
+.hh{
+padding-left: 10px;
+ margin-bottom: 10px;
+  font-size: 20px;
+}
+.hhl{
+  display: flex;
+  width: 249px;
+  font-size: 16px;
+}
+.skll{
+  float: left;
+  margin-left: 27px;
+  display: inline;
+  height: 651px;
+}
+.skill{ text-align: left;
+  margin-bottom: 35px;
+  width: 269px;
+   display: inline;
+float: left;
+}
+.skill1{ text-align: left;
+  margin-bottom: 35px;
+  width: 269px;
+   display: inline;
+float: left;
+}
+.skill2{text-align: left;
+  margin-bottom: 35px;
+  width: 269px;
+   display: inline;
+float: left;
+}
+.a1{
+  display: inline-flex;
+}
+.a2{
+  display: inline-flex;
+}
+.a3{
+  display: inline-flex;
+}
+.contents{ 
+  font-weight: 200;
+   font-family: 'Noto Sans', sans-serif;
+  display: inline;
+  font-size: 52px;
+}
+h2{ 
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 200;
+  margin: 0;
+  padding-top: 211px;
+}
+.focus{
+font-size: 20px;
+}
+.for{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form{
+  margin-right:  16px;
+  color: #000;
+  background: #fff;
+  border-radius: 10px;
+  width: 476px;
+}
+.form1{
+  margin-left:   16px;
+  color: #000;
+  background: #fff;
+  border-radius: 10px;
+  width: 476px;
+}
+h3{
+  font-family: 'Noto Sans', sans-serif;
+  padding-top: 40px;
+ font-size: 20px;
+}
+h4{
+  font-family: 'Noto Sans', sans-serif;
+  padding-top: 40px;
+ font-size: 20px;
+}
+.Ever{
+  padding-top: 25px;
+   font-size: 16px;
+  color: #5C5C5C;
+}
+.wondered{
+  padding-top: 25px;
+   font-size: 16px;
+  color: #5C5C5C;
+}
+.b1{
+ background: #4452FE;
+  margin: 0;
+  height: 52px;
+  width: 157px;
+  margin-top: 60px;
+  font-weight: 500;
+  border: none;
+  transition: background-color 0.3s ease;
+  margin-bottom: 57px;
+}
+.b1:hover {
+  background-color: #3344CC; /* Новый цвет фона при наведении */
+}
+.b2{
+ background: #4452FE;
+  margin: 0;
+  height: 52px;
+  width: 190px;
+  margin-top: 35px;
+  font-weight: 500;
+  border: none;
+  transition: background-color 0.3s ease;
+  }
+.b2:hover {
+  background-color: #3344CC; /* Новый цвет фона при наведении */
+}
+.Macbook{
+  margin-bottom: 43px;
+}
+.Gallery{
+
+   font-family: 'Noto Sans', sans-serif;
+  display: flex;
+  width: 1097px;
+  flex-direction: column;
+}
+h5{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: 400;
+  font-size: 52px;
+  margin-top: 210px;
+  margin-bottom: 0;
+}
+.we{
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+  margin-top: 15px;
+}
+.photo{ 
+  display: flex;
+     justify-content: center;
+}
+.rect1{
+  border-radius: 15px;
+  margin-left: 33px;
+}
+.rect2{
+  border-radius: 15px;
+  margin-right: 33px;
+  margin-left: 33px;
+}
+.rect3{
+ border-radius: 15px;
+}
+.b3{
+margin: 0;
+  height: 52px;
+  width: 159px;
+  transition: background-color 0.3s ease;
+}
+.b3:hover {
+  background-color: rgba(204,204,204,0.2); /* Новый цвет фона при наведении */
+}
+.see{
+  display: flex;
+  align-items: center;
+padding-top: 44px;
+justify-content: center;
+}
+.Partners{
+  display: inline;
+}
+h6{
+  padding-top: 200px;
+  font-size: 52px;
+  margin: 0;
+  padding-bottom: 20px;
+}
+.ergonomics{
+font-size:  20px;
+}
+.Brands{
+display: flex;
+justify-content: center;
+}
+.b4{
+margin-top: 55px;
+margin-left : 0;
+  height: 52px;
+  width: 176px;
+  transition: background-color 0.3s ease;
+}
+.b4:hover {
+  background-color: rgba(204,204,204,0.2); /* Новый цвет фона при наведении */
+}
+.db4{
+  display: flex;
+justify-content: center;
+}
+.Testimonials{
+display: inline;
+}
+.test{
+  padding-bottom: 55px;
+}
+.man{
+  width: 1097px;
+ display: flex;
+ justify-content: center;
+}
+.man1{
+  margin: 0;
+display: inline;
+}
+.man2{
+  margin: 0;
+display: inline;
+}
+.man11{
+  margin-top: 19px;
+  margin-right: 11px;
+   width: 460px;
+  border-radius: 22px;
+  border: 1px solid white; 
+   margin-bottom:  20px;
+} 
+.man12{
+  margin-right: 11px;
+   width: 460px;
+  border-radius: 22px;
+  border: 1px solid white;
+} 
+.man21{
+  margin-left:  11px;
+   width: 460px;
+  border-radius: 22px;
+  border: 1px solid white;
+  margin-bottom: 20px;
+} 
+.man22{
+  margin-left:  11px;
+   width: 460px;
+  border-radius: 22px;
+  border: 1px solid white;
+} 
+.man111{
+  padding: 40px;
+  display: flex;
+  width: 322px;
+    flex-direction: column;
+} 
+.man1111{
+  font-weight: 500;
+  font-size: 16px;
+      justify-content: flex-start;
+  display: flex;
+}
+.man1111 img{
+  padding-right: 20px;
+}
+.Slayd{
+  padding-left: 130px;
+      justify-content: flex-end;
+  margin-top: 230px;
+  font-size: 52px; 
+  color: #fff;
+  display: flex;
+border-radius: 33px;
+background: #343434;
+box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.15);
+}
+.leftSlayd{
+
+      flex-direction: column;
+  display: flex;
+}
+.rightSlayd{
+  display: flex;
+  margin-left: 86px;
+}
+.leftSlayd p{
+  margin: 0;
+}
+.leftSlayd button{
+  margin-right: 285px;
+}
+.rightSlayd img{
+  border-bottom-right-radius: 33px;
+}
+.b5{
+ background: #4452FE;
+  margin: 0;
+  height: 45px;
+  width: 190px;
+  margin-top: 35px;
+  font-weight: 500;
+  border: none;
+  transition: background-color 0.3s ease;
+  }
+.b5:hover {
+  background-color: #3344CC; /* Новый цвет фона при наведении */
+}
+.bottom{
+  color: #fff;
+  display: flex;
+  margin-top: 287px;
+}
+.Fingertipe{
+  width: 110px;
+  flex-direction: column;
+  margin-left: 0;
+  margin-right: 80px;
+  display: flex;
+}
+.Fingertipe ul li{
+list-style: none;
+text-decoration:none;
+margin-bottom: 19px;
+
+}
+.Fingertipe ul li a{
+  margin-bottom: 19px;
+  color: #fff;
+  padding-left: 0;
+  transition:color 0.3s ease;
+}
+.Fingertipe li a:hover{
+color: #cccccc;
+}
+.Fingertipe ul{
+  padding-left: 0;
+  margin-top: 24px;
+}
+.svazcont{
+  color: #fff;
+  margin-left: 210px;
+      flex-direction: column;
+display: flex;
+padding-bottom: 60px;
+}
+.socseti a{
+  margin-right: 24px;
+}
+.tel{
+  margin-bottom: 20px;
+}
+.map a{
+      align-content: flex-start;
+
+  color: #fff;
+}
+.tel a{
+      align-content: flex-start;
+
+  color: #fff;
+}
+.map a:hover{
+  color: #cccccc;
+}
+.tel a:hover{
+  color: #cccccc;
+}
