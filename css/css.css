@@ -123,9 +123,7 @@ footer{
   width: 1097px;
   display: flex;
     flex-direction: column;
-  text-align: center;
-  align-items: center;
-  color: #fff;
+ color: #fff;
 }
 .p5 {
   font-size: 20px;
