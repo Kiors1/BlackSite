@@ -121,7 +121,8 @@ footer{
 }
 .verh1{  
   width: 1097px;
-  display:inline;
+  display: flex;
+    flex-direction: column;
   text-align: center;
   align-items: center;
   color: #fff;
