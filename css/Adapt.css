@@ -1,0 +1,182 @@
+@media (max-width: 500px){
+	.verh ul li{
+display: none;
+	}
+	.header{
+		display: flex;
+		width: 400px;
+		flex-direction: column;
+    align-items: flex-start;
+	}
+	.verh .h12{
+		margin: 0;
+	
+	}
+	ul .ul{
+		padding:  0;
+		margin: 0;
+	}
+	.btn{
+		margin: 0;
+	}
+	.p{
+		font-size: 52px;
+	}
+	.p2{
+		font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+letter-spacing: 0.2px;
+	}
+	.info{
+		width: 390px;
+		display: flex;
+		flex-direction: column;
+	}
+	.p3{
+		flex-direction: column;
+		width: 400px;
+		display: flex;
+		margin: 0;
+	}
+	.bt1{
+		margin: 0;
+	}
+	.bt2{
+		margin: 0;
+	}
+	.cont{
+		margin: 0;
+		height: 200px;
+		width: 400px;
+		display: flex;
+		background-position: center top;
+	}
+	footer{
+		display: flex;
+		width: 400px;
+	}
+	.p6{
+		margin: 0;
+	}
+	.p5{
+		text-align: center;
+	}
+	.verh1{
+width: 400px;
+	}
+	div img{
+		    max-width: 100%;
+    height: auto;
+	}
+	.div1{
+		display: flex;
+		width: 400px;
+		flex-direction: column;
+	}
+	.skll{
+		margin-left: 100px;
+	}
+	.contents{
+		margin-right: 0;
+		margin-top:  200px;
+		width: 400px;
+	}
+	.contents h2{
+		font-size: 52px;
+	}
+	.focus{
+		text-align: center;
+		width: 400px;
+	}
+	.for{
+		margin: 0;
+		display: flex;
+		flex-direction: column;
+	}
+	.form{
+		margin-right: 0;
+		width: 360px;
+		margin-bottom: 20px;
+	}
+	.form1{
+		margin: 0;
+		width: 360px;
+	}
+	.Gallery{
+		width: 390px;
+		margin: 0;
+	}
+	.photo{
+		flex-direction: column;
+	}
+	.photo1{
+		display: none;
+	}
+	.we{
+		text-align: center;
+	}
+	.Partners{
+		width: 390px;
+		text-align: center;
+	}
+	.Brands{
+		width: 360px;
+	}
+	.Testimonials{
+		width: 390px;
+		text-align: center;
+	}
+	.man{
+	 width: 360px;
+		flex-direction: column;
+	}
+	.man1{
+		margin-bottom: 20px;
+	}
+	.man11{
+		width: 360px;
+		margin-right:  0;
+	}
+	.man12{
+		width: 360px;
+		margin-right:  0;
+	}
+	.man21{
+		width: 360px;
+		margin-left:  0;
+	}
+	.man22{
+		width: 360px;
+		margin-left:  0;
+	}
+	.Slayd{
+		padding: 0;
+		width: 390px;
+		flex-direction: column;
+	}
+	.leftSlayd {
+		width: 390px;
+		font-size: 32px;
+	}
+	.b5{
+		margin-right: 0;
+	}
+	.rightSlayd {
+		margin-left: 0;
+	}
+	.rightSlayd img{
+		border-bottom-left-radius:33px;
+	}
+	.bottom {
+		width: 390px;
+		flex-direction: column;
+	}
+	.menu{
+		flex-direction: column;
+	}
+	.svazcont{
+		margin: 0;
+	}
+}
