@@ -184,9 +184,12 @@ float: left;
   display: inline-flex;
 }
 .contents{ 
+  width: 1097px;
   font-weight: 200;
    font-family: 'Noto Sans', sans-serif;
-  display: inline;
+  display:flex;
+  flex-direction: column;
+  
   font-size: 52px;
 }
 h2{ 
@@ -318,7 +321,9 @@ padding-top: 44px;
 justify-content: center;
 }
 .Partners{
-  display: inline;
+  display:flex;
+  flex-direction: column;
+  width: 1097px;
 }
 h6{
   padding-top: 200px;
@@ -348,7 +353,9 @@ margin-left : 0;
 justify-content: center;
 }
 .Testimonials{
-display: inline;
+display:flex;
+  flex-direction: column;
+  width: 1097px;
 }
 .test{
   padding-bottom: 55px;
@@ -409,6 +416,7 @@ display: inline;
   padding-right: 20px;
 }
 .Slayd{
+  width: 1097px;
   padding-left: 130px;
       justify-content: flex-end;
   margin-top: 230px;
@@ -451,6 +459,7 @@ box-shadow: 0px 4px 31px 0px rgba(0, 0, 0, 0.15);
   background-color: #3344CC; /* Новый цвет фона при наведении */
 }
 .bottom{
+  width: 1097px;
   color: #fff;
   display: flex;
   margin-top: 287px;
